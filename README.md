@@ -10,7 +10,7 @@ This is not full file of my thesis, it is only the basic part for my thesis
 2.  Maximum Central Temperature has linear relation with mass and mean
     molecular weight per electron
 
-3.  With repeating different value of mass, Hydrogen fraction (x) and linear regression. 
+3.  With repeating different value of mass, hydrogen fraction (x) and linear regression. 
     We get the equation relation between mass, mean molecular weight per electron and 
     maximum central temperature
     

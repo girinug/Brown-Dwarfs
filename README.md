@@ -21,3 +21,5 @@ This is not full file of my thesis, it is only the basic part for my thesis
     ##### Tcm = Maximum central temperature (K)
     ##### µe = Mean molecular weight per electron
     ##### M = Mass (Mo)
+    
+4.  Brown dwarfs with heavier mass will have lower magnitude and vice versa
